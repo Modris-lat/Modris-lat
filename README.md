@@ -1,12 +1,12 @@
 ### Hi there 👋
 <p>Here you can find all my projects. Some projects are private and can be shared on individual request</p>
-<p>My TOP 3 projects:
-<ul>
-  <il>Crypto-exchanges-quotes-harvester: https://github.com/Modris-lat/Crypto-exchanges-quotes-harvester</il>
-  <il>Url-converter: https://github.com/Modris-lat/url-converter</li>
-  <li>Scooter-rental: https://github.com/Modris-lat/Scooter-Rental</li>
- </ul>
- </p>
+<div>My TOP 3 projects:
+  <ul>
+    <il>Crypto-exchanges-quotes-harvester: https://github.com/Modris-lat/Crypto-exchanges-quotes-harvester</il>
+    <il>Url-converter: https://github.com/Modris-lat/url-converter</li>
+    <li>Scooter-rental: https://github.com/Modris-lat/Scooter-Rental</li>
+  </ul>
+ </div>
 <!--
 **Modris-lat/Modris-lat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

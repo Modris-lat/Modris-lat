@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>Here you can find all my projects. Some projects are private and can be shared on individual request</p>
-<div>My TOP 3 projects:
+<div>My latest projects:
   <ul>
     <li>Crypto-exchanges-quotes-harvester: https://github.com/Modris-lat/Crypto-exchanges-quotes-harvester</li>
     <li>Url-converter: https://github.com/Modris-lat/url-converter</li>

@@ -7,7 +7,7 @@
     <li>Azure-app: https://github.com/Modris-lat/Azure</li>
   </ul>
  </div>
- <p>Currently working on Texas-holdem poker (C#/.NET and React)</p>
+ <p>Currently working on Texas-holdem poker (C#/.NET and TypeScript/React)</p>
 <!--
 **Modris-lat/Modris-lat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

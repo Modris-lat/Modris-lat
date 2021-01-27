@@ -3,7 +3,6 @@
   <ul>
     <li>Scooter-rental-service: https://github.com/Modris-lat/Scooter-Rental-Service</li>
     <li>Crypto-exchanges-quotes-harvester: https://github.com/Modris-lat/Crypto-exchanges-quotes-harvester</li>
-    <li>Url-converter: https://github.com/Modris-lat/url-converter</li>
     <li>Azure-app: https://github.com/Modris-lat/Azure</li>
   </ul>
  </div>

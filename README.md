@@ -1,9 +1,9 @@
 ### Hi there 👋
 <div>My latest completed projects:
   <ul>
-    <li>Scooter-rental-service: https://github.com/Modris-lat/Scooter-Rental-Service</li>
-    <li>Crypto-exchanges-quotes-harvester: https://github.com/Modris-lat/Crypto-exchanges-quotes-harvester</li>
-    <li>Azure-app: https://github.com/Modris-lat/Azure</li>
+    <li>Scooter-rental-service (C#): https://github.com/Modris-lat/Scooter-Rental-Service</li>
+    <li>Crypto-exchanges-quotes-harvester (C#, SQL, Entity Framework, Http): https://github.com/Modris-lat/Crypto-exchanges-quotes-harvester</li>
+    <li>Azure-app (C#, Azure Functions, Azure storage, Http): https://github.com/Modris-lat/Azure</li>
   </ul>
  </div>
 <!--

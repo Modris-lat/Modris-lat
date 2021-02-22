@@ -6,6 +6,12 @@
     <li>Azure-app (C#, Azure Functions, Azure storage, Http): https://github.com/Modris-lat/Azure</li>
   </ul>
  </div>
+ <div>Currently working on:
+  <ul>
+    <li>Texas Hold'em poker (C#, Web Api, Http, React)</li>
+    <li>Cot data processing (C#, ASP NET CORE(MVC views) Web Api, Web scraper, Entity Framework, SQL)</li>
+  </ul>
+ </div>
 <!--
 **Modris-lat/Modris-lat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

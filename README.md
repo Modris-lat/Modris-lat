@@ -9,7 +9,7 @@
  <div>Currently working on:
   <ul>
     <li>Texas Hold'em poker (C#, Web API, Http, React)</li>
-    <li>Commitments Of Traders (COT) data processing (C#, ASP NET CORE(MVC views) Web API, HTML, Web scraper, Entity Framework, SQL)</li>
+    <li>Commitments Of Traders (COT) data processing (C#, ASP.NET CORE(MVC views) Web API, HTML, Web scraper, Entity Framework, SQL)</li>
   </ul>
  </div>
 <!--

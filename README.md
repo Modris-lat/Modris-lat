@@ -13,10 +13,7 @@
   </ul>
  </div>
  
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%232b7489&message=TypeScript%EF%B8%B162.6%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B110.2%25)
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23a270ba&message=Julia%EF%B8%B18.1%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B118.9%25)
+![Modris's github stats](https://github-readme-stats.vercel.app/api?username=Modris-lat&show_icons=true&theme=radical)
 <!--
 **Modris-lat/Modris-lat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

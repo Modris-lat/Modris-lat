@@ -12,6 +12,8 @@
     <li>Texas Hold'em poker (C#/ASP.NET standard, Websocket, React/TypeScript, Entity FrameWork, MS SQL Server and SQL server managment studio)</li>
   </ul>
  </div>
+ 
+ {{ LANGUAGE_PERCENT }}
 <!--
 **Modris-lat/Modris-lat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

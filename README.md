@@ -14,6 +14,8 @@
  </div>
  
 ![Modris's github stats](https://github-readme-stats.vercel.app/api?username=Modris-lat&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Modris-lat&layout=compact)](https://github.com/Modris/github-readme-stats)
 <!--
 **Modris-lat/Modris-lat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

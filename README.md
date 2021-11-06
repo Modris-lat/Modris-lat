@@ -7,7 +7,7 @@
     <li>Commitments Of Traders (COT) data processing (C#, ASP.NET core(MVC views) Web API, HTML, Web scraper, Entity Framework, SQL)</li>
   </ul>
  </div>
- <div>Currently working on:
+ <div>Unfinished projects:
   <ul>
     <li>Texas Hold'em poker (C#/ASP.NET standard, Websocket, React/TypeScript, Entity FrameWork, MS SQL Server and SQL server managment studio)</li>
   </ul>

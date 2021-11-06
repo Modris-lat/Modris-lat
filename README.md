@@ -9,7 +9,7 @@
  </div>
  <div>Unfinished projects:
   <ul>
-    <li>Texas Hold'em poker (C#/ASP.NET standard, Websocket, React/TypeScript, Entity FrameWork, MS SQL Server and SQL server managment studio)</li>
+    <li>Texas Hold'em poker (C#/ASP.NET standard, Websocket, React/TypeScript, Entity FrameWork, MSSQL)</li>
   </ul>
  </div>
 

@@ -2,14 +2,8 @@
 <div>My latest completed projects:
   <ul>
     <li>CV-App (C#, ASP.NET core(MVC views), HTML, jQuery, Entity Framework, SQL): https://github.com/Modris-lat/Cv_app</li>
-    <li>Crypto-exchanges-quotes-harvester (C#/.NET standard, SQL, Entity Framework, Http): https://github.com/Modris-lat/Crypto-exchanges-quotes-harvester</li>
     <li>Azure-app (C#/.NET core, Azure Functions, Azure storage, Http): https://github.com/Modris-lat/Azure</li>
     <li>Commitments Of Traders (COT) data processing (C#, ASP.NET core MVC, Console app, Web scraper, Entity Framework, MSSQL)</li>
-  </ul>
- </div>
- <div>Unfinished projects:
-  <ul>
-    <li>Texas Hold'em poker (C#/ASP.NET, Websocket, React/TypeScript, Entity FrameWork, MSSQL)</li>
   </ul>
  </div>
 

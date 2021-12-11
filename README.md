@@ -1,11 +1,4 @@
 ### Hi there 👋
-<div>My latest completed projects:
-  <ul>
-    <li>CV-App (C#, ASP.NET core(MVC views), HTML, jQuery, Entity Framework, SQL): https://github.com/Modris-lat/Cv_app</li>
-    <li>Azure-app (C#/.NET core, Azure Functions, Azure storage, Http): https://github.com/Modris-lat/Azure</li>
-    <li>Commitments Of Traders (COT) data processing (C#, ASP.NET core MVC, Console app, Web scraper, Entity Framework, MSSQL)</li>
-  </ul>
- </div>
 
 <!--
 **Modris-lat/Modris-lat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
